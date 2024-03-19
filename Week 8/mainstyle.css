@@ -1,0 +1,11 @@
+#specificColor {
+    color: rgb(0, 140, 255);
+    font-family: Arial;
+    font-size: 24px;
+  }
+  
+  #specificLink {
+    color: rgb(235, 14, 14);
+    font-family: arial;
+    font-size: 20px;
+  }
